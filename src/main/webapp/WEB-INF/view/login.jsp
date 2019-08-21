@@ -39,7 +39,7 @@
               <a class="nav-link" href="followers">Follower/Following</a>
             </li> 
             <li class="nav-item">
-                <a class="nav-link" onclick="location.href = 'Account.html'">Account</a>
+                <a class="nav-link" href="newsfeed">Account</a>
             </li>           
         </ul>
         </div>
